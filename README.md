@@ -1,5 +1,5 @@
    <p align="center">
-     <img src="vibetv.png" width="128" alt="VibeTV">
+     <img src="banner.png" alt="VibeTV – IPTV player for Windows">
    </p>
    
 # VibeTV
